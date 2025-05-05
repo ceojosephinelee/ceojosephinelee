@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-<!--
-**ceojosephinelee/ceojosephinelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🌱 I’m currently learning JAVA & Spring
 
-- 🌱 I’m currently learning JAVA & Spring
-
-- 📫 How to reach me: jose1123@naver.com
+📫 How to reach me: jose1123@naver.com
 
