@@ -1,4 +1,4 @@
-## Hi there 👋
+## LEE JIHYUN [Josephine]
 
 
 🌱 I’m currently learning JAVA & Spring
