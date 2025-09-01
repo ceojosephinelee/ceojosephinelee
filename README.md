@@ -1,7 +1,7 @@
 ## LEE JIHYUN [Josephine]
 
 
-🌱 I’m currently learning JAVA & Spring
+🌱 I’m currently using JAVA & Spring
 
 📫 How to reach me: jose1123@naver.com
 
