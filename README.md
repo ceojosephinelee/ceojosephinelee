@@ -1,5 +1,5 @@
 ## LEE JIHYUN [Josephine]
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=welcome%20ceojosephinelee&fontSize=80)
 🌱 I’m currently using JAVA & Spring
 
 📫 How to reach me: jose1123@naver.com
