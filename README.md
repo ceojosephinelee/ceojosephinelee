@@ -1,5 +1,5 @@
 ## LEE JIHYUN [Josephine]
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20&fontSize=70)
 
 🌱 I’m currently using JAVA & Spring
 
