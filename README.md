@@ -7,3 +7,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihyun_lee)](https://solved.ac/jihyun_lee/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceojosephinelee)](https://github.com/anuraghazra/github-readme-stats)
+
